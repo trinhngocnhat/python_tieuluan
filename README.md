@@ -1,4 +1,5 @@
 # python_tieuluan
 # trinh ngoc nhat check
- A  = "hello world"
- print(A)
+# tran huy hoang check
+# A  = "hello world"
+# print(A)
